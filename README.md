@@ -62,8 +62,17 @@ También permitió fortalecer habilidades en interpretación de pruebas estadís
 
 El análisis completo se encuentra desarrollado en el notebook del proyecto.
 
-El repositorio se complementará con visualizaciones relevantes del análisis para facilitar la interpretación de los principales resultados.
+### Conversión por fuente de tráfico
 
+La visualización permite comparar el volumen de usuarios que convirtieron y no convirtieron según la fuente de tráfico. Las diferencias observadas se interpretan de forma descriptiva y deben complementarse con las pruebas estadísticas desarrolladas en el análisis.
+
+![Conversión por fuente de tráfico](ab_conversion_fuente_trafico.png)
+
+### Conversión por tipo de usuario
+
+La visualización compara la conversión entre usuarios nuevos y recurrentes. Los resultados permiten observar el comportamiento de ambos grupos sin atribuir causalidad a las diferencias identificadas.
+
+![Conversión por tipo de usuario](ab_conversion_tipo_usuario.png)
 ## Autora
 
 **Denisse Ungson**
